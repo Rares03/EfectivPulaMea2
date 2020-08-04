@@ -1,2 +1,0 @@
-# EfectivPulaMea
-plm
